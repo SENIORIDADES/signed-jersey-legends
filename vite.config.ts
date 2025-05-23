@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/signed-jersey-legends',
+  base: "/signed-jersey-legends/",
   server: {
     host: "::",
     port: 8080,
